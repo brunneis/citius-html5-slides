@@ -11,7 +11,7 @@ var SLIDE_CONFIG = {
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
     enableTouch: true, // Default: true. If touch support should enabled. Note: the device must support touch.
-    favIcon: 'images/citius-logo-24x24.png',
+    favIcon: 'images/icons/favicon_24.png',
     fonts: [
       'Open Sans:regular,semibold,italic,italicsemibold',
       'Source Code Pro'
